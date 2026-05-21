@@ -5,7 +5,7 @@
 Sou um desenvolvedor apaixonado por arquitetura de sistemas, com foco na construção de APIs robustas e na orquestração de infraestruturas. Atualmente, concilio a minha formação acadêmica com o desenvolvimento de soluções ponta a ponta, desde a modelagem de dados até o *deploy* em ambientes de produção.
 
 ### 🎓 Formação Acadêmica
-* ⏳ **Bacharelato em Tecnologia da Informação (BTI)** - Instituto Metrópole Digital (IMD/UFRN) (*Em progresso*)
+* ⏳ **Bacharelado em Tecnologia da Informação (BTI)** - Instituto Metrópole Digital (IMD/UFRN) (*Em progresso*)
 * ✅ **Técnico em Informática para a Internet** - Instituto Federal do Rio Grande do Norte (IFRN) (*Concluído*)
 
 ---
