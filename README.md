@@ -41,25 +41,24 @@ Uma rede social construída do zero para aplicar conceitos sólidos de desenvolv
 * **Destaque:** Provisionamento completo de uma máquina virtual Linux no Azure para hospedar a aplicação de forma nativa.
 
 #### 📚 eLibros
-Plataforma completa para gestão de dados e acervo, estruturada com separação entre a API e a interface de usuário.
+Plataforma completa para venda de livros e acervo, estruturada com separação entre a API e a interface de usuário.
 * **Repositórios:** [Backend (API)](https://github.com/PI-InfoWeb-CNAT/2025-eLibros) | [Frontend](https://github.com/rafaelriccodc/elibros-frontend)
 * **Stack:** Python (Backend) e Frontend dedicado em Next.js e React.
 * **Destaque:** Estruturação lógica e foco em regras de negócio consistentes.
 
 #### 🌌 [Space IF](https://github.com/rafaelriccodc/space-if)
-Projeto desenvolvido para explorar novos conceitos de programação, com foco na aplicação prática de lógica e interatividade.
+Projeto desenvolvido para explorar novos conceitos de programação em jogos, com foco na aplicação prática de lógica e interatividade.
 
 #### 🎟️ [Tronco da Sorte](https://github.com/rafaelriccodc/troncodasorte)
 Plataforma de gestão de sorteios/rifas desenvolvida para escalar e oferecer uma experiência fluida.
 * **Stack:** Next.js, React, banco de dados Neon (Serverless Postgres), Vercel.
 * **Destaque:** Integração completa do ciclo de vida da aplicação com CI/CD via Vercel.
-*(Nota: Lembre-se de inserir o link deste repositório depois se desejar mantê-lo na vitrine)*
 
 ---
 
 ### 💼 Experiência Profissional
 * **Desenvolvedor Web & Suporte de TI | MDR Advocacia**
-  Atuei no desenvolvimento e manutenção de sistemas web e prestei suporte técnico direto, lidando com ambientes corporativos reais e servidores Linux.
+  Atuei no desenvolvimento e manutenção de sistemas web e prestei suporte técnico direto, lidando com ambientes corporativos reais e servidores Linux, desenvolvendo site interno em HTML, CSS e JS, assim como externo usando WORDPRESS e Elementor. 
 
 ---
 
