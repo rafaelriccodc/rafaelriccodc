@@ -2,9 +2,9 @@
 
 **Estudante de BTI @ UFRN | Entusiasta de Fullstack, Backend & DevOps**
 
-Sou um desenvolvedor apaixonado por arquitetura de sistemas, com foco na construção de APIs robustas e na orquestração de infraestruturas. Atualmente, concilio a minha formação académica com o desenvolvimento de soluções ponta a ponta, desde a modelagem de dados até ao *deploy* em ambientes de produção.
+Sou um desenvolvedor apaixonado por arquitetura de sistemas, com foco na construção de APIs robustas e na orquestração de infraestruturas. Atualmente, concilio a minha formação acadêmica com o desenvolvimento de soluções ponta a ponta, desde a modelagem de dados até o *deploy* em ambientes de produção.
 
-### 🎓 Formação Académica
+### 🎓 Formação Acadêmica
 * ⏳ **Bacharelato em Tecnologia da Informação (BTI)** - Instituto Metrópole Digital (IMD/UFRN) (*Em progresso*)
 * ✅ **Técnico em Informática para a Internet** - Instituto Federal do Rio Grande do Norte (IFRN) (*Concluído*)
 
@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por arquitetura de sistemas, com foco na constru
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Infraestrutura, DevOps & Bases de Dados:**
+**Infraestrutura, DevOps & Bancos de Dados:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -35,19 +35,25 @@ Sou um desenvolvedor apaixonado por arquitetura de sistemas, com foco na constru
 
 ### 🚀 Projetos em Destaque
 
-#### 🌳 [Purple Tree](link-para-o-repositorio-ou-producao)
-Uma rede social construída de raiz para aplicar conceitos sólidos de desenvolvimento e infraestrutura.
+#### 🌳 [Purple Tree](https://github.com/ViniluR/Purple-Tree)
+Uma rede social construída do zero para aplicar conceitos sólidos de desenvolvimento e infraestrutura.
 * **Stack:** PHP puro, Linux, Microsoft Azure.
-* **Destaque:** Provisionamento completo de uma máquina virtual Linux no Azure para alojar a aplicação de forma nativa.
+* **Destaque:** Provisionamento completo de uma máquina virtual Linux no Azure para hospedar a aplicação de forma nativa.
 
-#### 🎟️ [Tronco da Sorte](link-para-o-repositorio-ou-producao)
+#### 📚 eLibros
+Plataforma completa para gestão de dados e acervo, estruturada com separação entre a API e a interface de usuário.
+* **Repositórios:** [Backend (API)](https://github.com/PI-InfoWeb-CNAT/2025-eLibros) | [Frontend](https://github.com/rafaelriccodc/elibros-frontend)
+* **Stack:** Python (Backend) e Frontend dedicado em Next.js e React.
+* **Destaque:** Estruturação lógica e foco em regras de negócio consistentes.
+
+#### 🌌 [Space IF](https://github.com/rafaelriccodc/space-if)
+Projeto desenvolvido para explorar novos conceitos de programação, com foco na aplicação prática de lógica e interatividade.
+
+#### 🎟️ Tronco da Sorte
 Plataforma de gestão de sorteios/rifas desenvolvida para escalar e oferecer uma experiência fluida.
-* **Stack:** Next.js, React, base de dados Neon (Serverless Postgres), Vercel.
-* **Destaque:** Integração completa do ciclo de vida da aplicação com CI/CD via Vercel e gestão de base de dados moderna.
-
-#### 📚 [2025-eLibros](link-para-o-repositorio)
-*Adiciona aqui uma breve descrição do teu projeto Python focado em lógica de negócio ou gestão de dados.*
-* **Stack:** Python.
+* **Stack:** Next.js, React, banco de dados Neon (Serverless Postgres), Vercel.
+* **Destaque:** Integração completa do ciclo de vida da aplicação com CI/CD via Vercel.
+*(Nota: Lembre-se de inserir o link deste repositório depois se desejar mantê-lo na vitrine)*
 
 ---
 
@@ -57,11 +63,6 @@ Plataforma de gestão de sorteios/rifas desenvolvida para escalar e oferecer uma
 
 ---
 
-### 🎮 Além do código...
-Quando não estou a configurar instâncias no Azure ou a escrever código, provavelmente podes encontrar-me num *dual-boot* no Ubuntu ou a explorar Hyrule no *Zelda: BOTW* ou a jogar a franquia *Resident Evil*.
-
----
-
-### 📫 Como contactar-me
+### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ricco-a5162429a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelriccodc@gmail.com)
