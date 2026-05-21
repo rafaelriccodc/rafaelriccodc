@@ -63,11 +63,5 @@ Quando não estou a configurar instâncias no Azure ou a escrever código, prova
 ---
 
 ### 📫 Como contactar-me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLA-AQUI-O-TEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ricco-a5162429a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelriccodc@gmail.com)
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelriccodc&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub do Rafael" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelriccodc&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais utilizadas" height="150"/>
-</div>
