@@ -49,7 +49,7 @@ Plataforma completa para gestão de dados e acervo, estruturada com separação 
 #### 🌌 [Space IF](https://github.com/rafaelriccodc/space-if)
 Projeto desenvolvido para explorar novos conceitos de programação, com foco na aplicação prática de lógica e interatividade.
 
-#### 🎟️ Tronco da Sorte
+#### 🎟️ [Tronco da Sorte](https://github.com/rafaelriccodc/troncodasorte)
 Plataforma de gestão de sorteios/rifas desenvolvida para escalar e oferecer uma experiência fluida.
 * **Stack:** Next.js, React, banco de dados Neon (Serverless Postgres), Vercel.
 * **Destaque:** Integração completa do ciclo de vida da aplicação com CI/CD via Vercel.
