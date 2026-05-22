@@ -46,9 +46,6 @@ Plataforma completa para venda de livros e acervo, estruturada com separação e
 * **Stack:** Python (Backend) e Frontend dedicado em Next.js e React.
 * **Destaque:** Estruturação lógica e foco em regras de negócio consistentes.
 
-#### 🌌 [Space IF](https://github.com/rafaelriccodc/space-if)
-Projeto desenvolvido para explorar novos conceitos de programação em jogos, com foco na aplicação prática de lógica e interatividade.
-
 #### 🎟️ [Tronco da Sorte](https://github.com/rafaelriccodc/troncodasorte)
 Plataforma de gestão de sorteios/rifas desenvolvida para escalar e oferecer uma experiência fluida.
 * **Stack:** Next.js, React, banco de dados Neon (Serverless Postgres), Vercel.
